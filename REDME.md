@@ -1,4 +1,4 @@
-# Фролов Александр Валерьевич       ![](C:/Users/sasha/Git/courseGit/img/606650636.jpeg)
+# Фролов Александр Валерьевич       ![](https://github.com/AleksandrFR/courseGit/blob/master/img/606650636.jpeg)
 
 
 Обо мне
